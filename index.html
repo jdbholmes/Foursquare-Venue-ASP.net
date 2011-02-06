@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+	<title>Test Page</title>
+	<link rel="stylesheet" href="/css/main.css" />
+    <script type="text/javascript" src="http://localhost/portal/js/get_venue.js.aspx"></script>
+</head>
+<body>
+<h1>Test Page</h1>
+
+<h3>FourSquare</h3>
+<a href="javascript:popupVenueForm()">Show Form</a><br/>
+<a href="javascript:popupVenueForm('Grand Central Terminal', 'New York', 'NY')">Show Grand Central</a>
+
+<h3>Yelp</h3>
+<a href="javascript:popupYelpForm()">Show Form</a><br/>
+<a href="javascript:popupYelpForm('Grand Central Terminal', 'New York', 'NY')">Show Grand Central</a>
+
+<div style="position:absolute; visibility:show; left: 300px; top: 300px; z-index:2" ><label> Copy below and paste the code in your web site</label>
+    <asp:TextBox id="source" runat="server" Height="76px" Rows="20" TextMode="MultiLine" 
+            Width="496px" ></asp:TextBox></div>
+</body>
+</html>

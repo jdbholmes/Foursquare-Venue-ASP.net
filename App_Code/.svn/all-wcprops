@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/shell-portal/portal/!svn/ver/22/App_Code
+END
+HttpFetcher.cs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/shell-portal/portal/!svn/ver/6/App_Code/HttpFetcher.cs
+END
+YelpAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/shell-portal/portal/!svn/ver/22/App_Code/YelpAPI.cs
+END
+SafeDictionary.cs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/shell-portal/portal/!svn/ver/22/App_Code/SafeDictionary.cs
+END
+FourSquareAPI.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/shell-portal/portal/!svn/ver/22/App_Code/FourSquareAPI.cs
+END
+Geocoder.cs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/shell-portal/portal/!svn/ver/22/App_Code/Geocoder.cs
+END

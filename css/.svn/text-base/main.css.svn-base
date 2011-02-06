@@ -1,0 +1,24 @@
+body {padding:0;margin:0;color:#5A5858;font-family:Helvetica,Verdana,Arial,sans-serif; font-size:12px;background:#fff;}
+a { color:Black;}
+br {    display:none;}
+.clear {clear:both;}
+p {margin:0;padding:0;}
+#container{width:160px;    border:1px solid #006ab6;}
+
+ #content {padding:5px;}
+ #footer  {height:25px;    background:url(../images/widget_footer.png) no-repeat center bottom #3369b2;}
+      
+#credits   {text-align:center;    padding:5px 0 0;    background:#3369b2;}
+h1  {text-indent:-9999px;    margin:0;    padding:0;    height:74px; 
+ background:url(../images/widget_fsq_logo.png) no-repeat;}
+ h2   {margin:8px 0 4px;    padding:0;}
+ h3 {    margin:8px 0 4px;   
+ text-transform:uppercase;}
+ .info { }
+ .divider    {height:10px;    margin-bottom:10px;    border-bottom:1px solid #888888;}
+ p.checkins { margin-top:4px;}.mayor img {    float:left;    margin-bottom:10px;}    	 
+ .mayor .mayor-name {  float:left;    width:100px;    margin-left:5px;}
+           	  	   
+.herenow a img   {border:none;}
+           	  	   	  	 
+ .tips p, .offers p {margin-bottom:4px;}       

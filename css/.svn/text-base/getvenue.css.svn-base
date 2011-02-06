@@ -1,0 +1,7 @@
+div.venue_form_wrap, div.venue_results {
+	color:#1e3648;
+	font:normal 11px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	padding: 20px;
+}
